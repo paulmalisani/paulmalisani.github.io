@@ -19,7 +19,7 @@ weight: 60
 
 - **Optimisation non-linéaire, calcul des variations et commande optimale**  
   _Elisa Aerospace_ — *Responsable du cours* (2013 – )  
-  [📄 Syllabus (PDF)](/static/uploads/CoursElisaAerospace.pdf)
+  [📄 Syllabus (PDF)](/uploads/CoursElisaAerospace.pdf)
 
 - **Optimisation**  
   _Ecole des Mines de Paris_ — *Chargé de TDs* (2013–2025)
