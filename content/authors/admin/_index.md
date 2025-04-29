@@ -6,10 +6,6 @@ title: Paul Malisani
 first_name: Paul
 last_name: Malisani
 
-# Status emoji
-status:
-  icon: 🌞
-
 # Is this the primary user of the site?
 superuser: true
 
