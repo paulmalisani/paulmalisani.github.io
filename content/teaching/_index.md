@@ -17,19 +17,12 @@ weight: 60
 
 ### 📚 Courses Taught
 
-- **Introduction to Macroeconomics**  
-  _Université Paris 1 Panthéon-Sorbonne_ — *Head of Course* (2021–2024)  
-  [📄 Syllabus (PDF)](https://example.com/syllabus-macro.pdf)
+- **Optimisation non-linéaire, calcul des variations et commande optimale**  
+  _Elisa Aerospace_ — *Responsable du cours* (2013 – )  
+  [📄 Syllabus (PDF)](uploads/CoursElisaAerospace.pdf)
 
-- **Statistics for Social Sciences**  
-  _Sciences Po Paris_ — *Seminar Tutor* (2019–2023)
-
-- **Political Economy of Development**  
-  _EHESS_ — *Course Assistant* (2020–2022)
-
-- **Quantitative Methods in Political Science**  
-  _University of Oxford_ — *Seminar Leader* (2023–present)  
-  [📄 Syllabus](https://example.com/syllabus-quantmethods)
+- **Optimisation**  
+  _Ecole des Mines de Paris_ — *Chargé de TDs* (2013–2025)
 
 ---
 
