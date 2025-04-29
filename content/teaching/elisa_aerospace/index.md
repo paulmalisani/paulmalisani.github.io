@@ -3,5 +3,8 @@ title: Chargé du cours "Optimisation non-linéaire, calcul des variations et co
 authors:
 - Paul Malisani
 date_start: 2013-01-01
-url: static/files/CoursElisaAerospace.pdf
+# Show a call-to-action button under your biography? (optional)
+button:
+text: Download Syllabus
+url: files/CoursElisaAerospace
 ---
