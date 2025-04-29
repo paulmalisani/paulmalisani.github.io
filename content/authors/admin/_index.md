@@ -45,14 +45,14 @@ interests:
 education:
   - area: PhD Mathematics and Control
     institution: Ecole des Mines de Paris
-    date_end: '2012'
+    date_end: 2012-09-30
   - area: M.Sc in Control Theory and Signal Processing
     institution: Supélec
-    date_end: '2009'
+    date_end: 2009-09-30
 work:
   - position: Researcher in applied mathematics
     company_name: IFP Energies nouvelles, Dpt of Applied Mathematics
-    date_start: '2018'
+    date_start: 2018-04-01
     date_end: ''
     summary: |2-
       Developing optimization algorithms for
@@ -62,12 +62,12 @@ work:
     company_name: Syndex
     company_url: ''
     company_logo: ''
-    date_start: '2017'
-    date_end: '2018'
+    date_start: 2017-04-01
+    date_end: 2018-03-31
   - position: Research Engineer
     company_name: EDF R&D
-    date_start: '2012'
-    date_end: '2017'
+    date_start: 2012-10-01
+    date_end: 2017-03-31
     summary: |
       I used to manage two different projects:
       - The first one aims at developping advanced methods of control for integration of the demand side flexibility into the electrical grid both from a technical and economical view-point
@@ -120,7 +120,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Paul Caseau prize
-    date: '2013'
+    date: 2013-05-01
     awarder: Academy of Technologies and EDF
 ---
 ## About Me
