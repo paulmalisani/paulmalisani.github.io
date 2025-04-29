@@ -1,23 +1,12 @@
 ---
-title: Teaching
-summary: My courses
-type: landing
-
-cascade:
-  - _target:
-      kind: page
-    params:
-      show_breadcrumb: true
-
-sections:
-  - block: collection
-    id: teaching
-    content:
-      title: Teaching
-      filters:
-        folders:
-          - teaching
-    design:
-      view: article-grid
-      columns: 2
+widget: blank
+headless: true
+title: "Teaching"
+active: true
+weight: 40
 ---
+
+- **Elisa Aerospace** – *Optimisation non-linéaire, calcul des variations et commande optimale* (2012–)  
+  [📄 Syllabus (PDF)](/files/CoursElisaAerospace.pdf){target="_blank"}
+
+- **Ecole des Mines de Paris** – *Chargé de TD du cours d'optimisation* (2012–2025) 
