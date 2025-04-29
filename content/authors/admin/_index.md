@@ -113,9 +113,9 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Paul Caseau prize
+  - title: Paul Caseau prize 2013 for best Ph.D. in energy efficiency.
     date: 2013-05-01
-    awarder: Academy of Technologies and EDF
+    awarder: French Academy of Technologies and Fondation EDF
 ---
 ## About Me
 
