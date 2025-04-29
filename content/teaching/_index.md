@@ -5,6 +5,6 @@ layout: "default"
 ---
 
 - **Elisa Aerospace** – *Optimisation non-linéaire, calcul des variations et commande optimale* (2012–)  
-  [📄 Syllabus (PDF)](/files/CoursElisaAerospace.pdf){target="_blank"}
+  [📄 Syllabus (PDF)](/files/CoursElisaAerospace.pdf)
 
 - **Ecole des Mines de Paris** – *Chargé de TD du cours d'optimisation* (2012–2025) 
