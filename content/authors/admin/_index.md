@@ -59,12 +59,13 @@ work:
       - battery energy management systems in the presence of uncertainties
       - wind farm layout design
       - wind farm wake control
+  - position: Consultant in Economic and Social Analysis
     company_name: Syndex
     company_url: ''
     company_logo: ''
     date_start: 2017-04-01
     date_end: 2018-03-31
-  - position: Research Engineer
+  - position: Research Engineer 
     company_name: EDF R&D
     date_start: 2012-10-01
     date_end: 2017-03-31
@@ -82,30 +83,23 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: LaTeX
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Economics and Social Sciences
         description: ''
-        percent: 60
+        percent: ''
+        icon: map
         icon: person-simple-walk
-      - name: Cats
+      - name: Modern History
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+        percent: ''
+        icon: map
 
 languages:
   - name: French
@@ -125,4 +119,4 @@ awards:
 ---
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Paul Malisani is a researcher in optimization for energy systems at IFP Energies nouvelles. His research interests mainly focus on optimization algorithms for energy management systems. These methods include optimal control, stochastic optimization and non-convex optimization.
