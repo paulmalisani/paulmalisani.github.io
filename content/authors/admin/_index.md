@@ -8,7 +8,7 @@ last_name: Malisani
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🌞
 
 # Is this the primary user of the site?
 superuser: true
@@ -43,10 +43,10 @@ interests:
   - Energy Management
 
 education:
-  - area: PhD Mathematics and Control
+  - area: Ph.D. in Mathematics and Control
     institution: Ecole des Mines de Paris
     date_end: 2012-09-30
-  - area: M.Sc in Control Theory and Signal Processing
+  - area: M.Sc. in Control Theory and Signal Processing
     institution: Supélec
     date_end: 2009-09-30
 work:
