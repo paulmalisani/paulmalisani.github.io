@@ -1,8 +1,5 @@
 ---
-university: "Elisa Aerospace"
-position: "Chargé de cours"
-course: "Optimisation non-linéaire, calcul des variations et commande optimale"
-date_start: 2013-01-01
-date_end: ''
+authors: "Elisa Aerospace"
+title: "Chargé du cours Optimisation non-linéaire, calcul des variations et commande optimale"
 url: uploads/CoursElisaAerospace.pdf
 ---
