@@ -18,11 +18,11 @@ weight: 60
 ### 📚 Courses Taught
 
 - **Optimisation non-linéaire, calcul des variations et commande optimale**  
-  _Elisa Aerospace_ — *Responsable du cours* (2013 – )  
+  _Elisa Aerospace, 5eme année option ISEC_ — *Responsable du cours* (2013 – )  
   ([📄 Syllabus on HAL](https://hal.science/view/index/docid/5051711))
 
 - **Optimisation**  
-  _Ecole des Mines de Paris_ — *Chargé de TDs* (2013–2025)
+  _Ecole des Mines de Paris, 1ere année cycle ingénieur_ — *Chargé de TDs* (2013–2025)
 
 ---
 
