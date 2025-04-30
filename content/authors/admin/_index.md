@@ -13,7 +13,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Researcher in optimization, optimal control and their application in energy management
+role: Research in optimization, optimal control, and applications in energy management
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
