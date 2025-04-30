@@ -43,6 +43,4 @@ sections:
       filters:
         folders:
           - teaching
-        exclude_featured: false
-    design:
 ---
