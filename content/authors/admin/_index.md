@@ -77,10 +77,12 @@ skills:
     items:
       - name: Python
         description: ''
+        percent: 95
         icon: code-bracket
       - name: LaTeX
         description: ''
-            icon: chart-bar
+        percent: 95
+        icon: chart-bar
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
