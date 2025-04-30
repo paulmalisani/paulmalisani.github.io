@@ -28,12 +28,10 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
         I am a research scientist in the department of applied mathematics at IFP Energies nouvelles. My research mainly focuses on optimization methods for energy systems.
-        
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
