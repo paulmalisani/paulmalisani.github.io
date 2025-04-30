@@ -99,9 +99,8 @@ skills:
 
 languages:
   - name: French
-    percent: 100
   - name: English
-    percent: 80
+
 
 
 # Awards.

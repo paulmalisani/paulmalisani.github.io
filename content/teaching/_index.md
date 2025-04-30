@@ -12,7 +12,7 @@ type: "widget_page"
 layout: "teaching"
 widget: "blank"
 headless: false
-weight: 60
+weight: 30
 ---
 - **Optimisation non-linéaire, calcul des variations et commande optimale**  
   _Elisa Aerospace, 5eme année option ISEC_ — *Responsable du cours* (2013 – )  
