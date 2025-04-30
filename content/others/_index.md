@@ -15,10 +15,10 @@ headless: false
 weight: 30
 ---
 ## Journal Papers
-- **P. Malisani**, *Interior Point Methods in Optimal Control*, ESAIM: COCV, 50(39), 2025.  
+- **Interior Point Methods in Optimal Control**, *P. Malisani*, ESAIM: COCV, 50(39), 2025.  
   [📄 Link](https://doi.org/10.1051/cocv/2024049) 
 
 ## Conference Papers
-- **P. Malisani**, *Interior Point Methods in Optimal Control*, ESAIM: COCV, 50(39), 2025.  
+- **Interior Point Methods in Optimal Control**, *P. Malisani*, ESAIM: COCV, 50(39), 2025.  
   [📄 Link](https://doi.org/10.1051/cocv/2024049) 
 ---
