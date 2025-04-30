@@ -26,14 +26,6 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: 'My Research'
-      subtitle: ''
-      text: |-
-        I am a research scientist in the department of applied mathematics at IFP Energies nouvelles. My research mainly focuses on optimization methods for energy systems.
-    design:
-      columns: '1'
   - block: collection
     content:
       title: Recent Publications
