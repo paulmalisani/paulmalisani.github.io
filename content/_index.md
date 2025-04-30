@@ -27,3 +27,8 @@ sections:
           position: center
           parallax: false
 ---
+## My Research
+
+My research mainly focus on optimization algorithms for energy management systems. These methods include optimal control, stochastic optimization and non-convex optimization. On the applicative side, I am manily working on optimal control of storage systems in the presence of uncertainties and on wind farm layout design and wind farm control.
+
+Please reach out to work with me. 
