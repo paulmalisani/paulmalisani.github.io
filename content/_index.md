@@ -26,6 +26,16 @@ sections:
           size: cover
           position: center
           parallax: false
+  - block: markdown
+    content:
+      title: 'My Research'
+      subtitle: ''
+      text: |-
+        My research interests primarily focus on optimal control, stochastic optimization, and non-convex optimization. On the applied side, I work mainly on optimal control under uncertainty, wind farm layout design, and wind farm control. 
+        
+        Please feel free to reach out for collaboration.
+    design:
+      columns: '1'
   - block: collection
     content:
       title: Recent Publications
