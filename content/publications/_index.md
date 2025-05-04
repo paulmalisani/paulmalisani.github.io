@@ -5,7 +5,7 @@ summary: ""
 authors: []
 tags: []
 categories: []
-date: 2025-04-29T00:00:00Z
+date: 2025-04-29T00:00:00Z  
 lastmod: 2025-04-29T00:00:00Z
 draft: false
 type: "widget_page"
@@ -14,7 +14,8 @@ widget: "blank"
 headless: false
 weight: 30
 ---
-<div style="width: 100% !important; max-width: none !important; padding-left: 2rem; padding-right: 2rem; font-size: 0.9rem;">
+
+<div style="font-size: 0.9rem;">
 
 ## Journal Papers
 
