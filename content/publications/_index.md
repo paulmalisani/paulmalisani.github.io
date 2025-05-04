@@ -1,7 +1,7 @@
 ---
-title: "Other stuff I do"
-subtitle: "and other things too"
-summary: "test to see what what"
+title: ""
+subtitle: ""
+summary: "
 authors: []
 tags: []
 categories: []
