@@ -14,7 +14,7 @@ widget: "blank"
 headless: false
 weight: 30
 ---
-<div style="max-width: 1000px; font-size: 0.95rem; margin: auto;">
+<div style="width: 100% !important; max-width: none !important; padding-left: 2rem; padding-right: 2rem; font-size: 0.9rem;">
 
 ## Journal Papers
 
@@ -70,4 +70,6 @@ weight: 30
 
 -  **Thermal building model identification using time-scaled identification methods**, *P. Malisani, F. Chaplais, N. Petit*, 49th IEEE Conference on Control and Decision, 2010.  
   [Proceedings](https://doi.org/10.1109/CDC.2010.5717975)
+
+</div>
 ---
