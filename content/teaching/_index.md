@@ -15,6 +15,7 @@ headless: false
 weight: 30
 ---
 <div style="font-size: 0.9rem;">
+
 - **Optimisation non-linéaire, calcul des variations et commande optimale**  
   _Elisa Aerospace, 5eme année option ISEC_ — *Responsable du cours* (2013 – )  
   ([📄 Syllabus on HAL](https://hal.science/view/index/docid/5051711))
