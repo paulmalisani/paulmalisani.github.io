@@ -1,6 +1,6 @@
 ---
-title: "List of Publications"
-subtitle: ""
+title: "Other stuff I do"
+subtitle: "and other things too"
 summary: "
 authors: []
 tags: []
