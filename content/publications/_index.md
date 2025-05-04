@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "List of Publications"
 subtitle: ""
 summary: "
 authors: []
