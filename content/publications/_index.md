@@ -14,6 +14,8 @@ widget: "blank"
 headless: false
 weight: 30
 ---
+<div style="max-width: 1000px; font-size: 0.95rem; margin: auto;">
+
 ## Journal Papers
 
 -  **Robust stochastic optimization via regularized PHA: application to Energy Management Systems**, *P. Malisani, A. Spagnol, V. Smis-Michel*, arXiv preprint, 2025.  
