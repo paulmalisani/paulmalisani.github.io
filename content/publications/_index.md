@@ -1,7 +1,7 @@
 ---
-title: "Other stuff I do"
-subtitle: "and other things too"
-summary: "
+title: "List of Publications"
+subtitle: ""
+summary: ""
 authors: []
 tags: []
 categories: []
