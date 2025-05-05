@@ -29,7 +29,7 @@ weight: 30
   [WES Preprint](https://wes.copernicus.org/preprints/wes-2024-118/)
 
 -  **Interior Point Methods in Optimal Control**, *P. Malisani*, ESAIM: Control, Optimisation and Calculus of Variations, vol 50(39), 2024.  
-  [Article](https://doi.org/10.1051/cocv/202404)
+  [Article](https://doi.org/10.1051/cocv/2024049)
 
 -  **Computing Wasserstein barycenters via operator splitting: The method of averaged marginals**, *D. Mimouni, P. Malisani, J. Zhu, W. de Oliveira*, SIAM Journal on Mathematics of Data Science, vol 6(4), 2024.  
   [Article](https://doi.org/10.1137/23M1584228) | [arXiv Preprint](https://doi.org/10.48550/arXiv.2309.05315)
