@@ -72,5 +72,9 @@ weight: 30
 -  **Thermal building model identification using time-scaled identification methods**, *P. Malisani, F. Chaplais, N. Petit*, 49th IEEE Conference on Control and Decision, 2010.  
   [Proceedings](https://doi.org/10.1109/CDC.2010.5717975)
 
+
+## Codes
+  -  **Interior-point solver for optimal control of ODEs**, *P. Malisani
+  [Git repo](https://ifpen-gitlab.appcollaboratif.fr/detocs/ipm_ocp)
 </div>
 ---
