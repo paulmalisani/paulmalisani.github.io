@@ -75,8 +75,8 @@ weight: 30
 
 ## Codes
 
--  **Interior-point solver for optimal control of ODEs**, *P. Malisani.*
-  [Git repo](https://ifpen-gitlab.appcollaboratif.fr/detocs/ipm_ocp)
+-  **Interior-point solver for optimal control of ODEs**, *P. Malisani*
+  [repo git](https://ifpen-gitlab.appcollaboratif.fr/detocs/ipm_ocp)
 </div>
 
 ---
