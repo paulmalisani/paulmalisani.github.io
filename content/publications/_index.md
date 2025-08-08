@@ -25,8 +25,8 @@ weight: 30
 -  **Scenario Tree Reduction via Wasserstein Barycenters**, *D. Mimouni, P. Malisani, J. Zhu, W. de Oliveira*, arXiv preprint, 2025.  
   [arXiv Preprint](https://arxiv.org/abs/2411.14477)
 
--  **Wind farm layout optimization with alignment constraints**, *P. Malisani, T. Bartement, P. Bozonnet*, Wind Energy Science Discussions, 2024.  
-  [WES Preprint](https://wes.copernicus.org/preprints/wes-2024-118/)
+-  **Wind farm layout optimization with alignment constraints**, *P. Malisani, T. Bartement, P. Bozonnet*, Wind Energy Science, vol 10(8), 2025.  
+  [Article](https://wes.copernicus.org/articles/10/1611/2025/)
 
 -  **Interior Point Methods in Optimal Control**, *P. Malisani*, ESAIM: Control, Optimisation and Calculus of Variations, vol 50(39), 2024.  
   [Article](https://doi.org/10.1051/cocv/2024049)
