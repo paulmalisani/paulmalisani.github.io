@@ -19,7 +19,7 @@ weight: 30
 
 ## Journal Papers
 
--  **Robust stochastic optimization via regularized PHA: application to Energy Management Systems**, *P. Malisani, A. Spagnol, V. Smis-Michel*, arXiv preprint, 2025.  
+-  **Robust stochastic optimal control via variance penalization: application to Energy Management Systems**, *P. Malisani, A. Spagnol, V. Smis-Michel*, arXiv preprint, 2025.  
   [arXiv Preprint](https://arxiv.org/abs/2411.02015)
 
 -  **Scenario Tree Reduction via Wasserstein Barycenters**, *D. Mimouni, P. Malisani, J. Zhu, W. de Oliveira*, arXiv preprint, 2025.  
