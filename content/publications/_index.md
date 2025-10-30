@@ -48,6 +48,9 @@ weight: 30
 
 ## Conference Papers
 
+-  **Floating offshore wind farm design optimization, including mooring line orientations and fatigue design**, *A. Nassor, Y. Alkarem, M. Hall, J. Lee, E. Lozon, P. Malisani, Y. Poirette, V. Ramachandran*, Proceedings of the ASME 2025, International Offshore Wind Technical Conference, 2025.  
+  [Proceedings](https://hal.science/hal-05338422)
+
 -  **Discrete-time optimal control of electric hot water tank**, *N. Beeker, P. Malisani, N. Petit*, 11th IFAC Symposium on Dynamics and Control of Process Systems Including Biosystems, 2016.  
   [Proceedings](https://doi.org/10.1016/j.ifacol.2016.07.301)
 
