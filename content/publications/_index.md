@@ -24,8 +24,8 @@ weight: 30
 -  **Robust stochastic optimal control via variance penalization: application to Energy Management Systems**, *P. Malisani, A. Spagnol, V. Smis-Michel*, arXiv preprint, 2025.  
   [arXiv Preprint](https://arxiv.org/abs/2411.02015)
 
--  **Scenario Tree Reduction via Wasserstein Barycenters**, *D. Mimouni, P. Malisani, J. Zhu, W. de Oliveira*, arXiv preprint, 2025.  
-  [arXiv Preprint](https://arxiv.org/abs/2411.14477)
+-  **Scenario Tree Reduction via Wasserstein Barycenters**, *D. Mimouni, P. Malisani, J. Zhu, W. de Oliveira*, Annals of Operations Research, 2026.
+  [Article](https://doi.org/10.1007/s10479-026-07062-8)
 
 -  **Wind farm layout optimization with alignment constraints**, *P. Malisani, T. Bartement, P. Bozonnet*, Wind Energy Science, vol 10(8), 2025.  
   [Article](https://wes.copernicus.org/articles/10/1611/2025/)
