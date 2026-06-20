@@ -21,8 +21,8 @@ weight: 30
 -  **Real-Time State-Constrained Power Management Based on Pontryagin’s Minimum Principle: Application to Fuel Cell Vehicles**, *T. Héraud, P. Malisani, T. Leroy*, IEEE Transactions on Control Systems Technology, 2026.  
   [Article](https://doi.org/10.1109/TCST.2026.3662008)
 
--  **Robust stochastic optimal control via variance penalization: application to Energy Management Systems**, *P. Malisani, A. Spagnol, V. Smis-Michel*, to appear in Computational Optimization and Applications, 2026.  
-  [Article](https://link.springer.com/article/10.1007/s10589-026-00802-3)
+-  **Robust stochastic optimal control via variance penalization: application to Energy Management Systems**, *P. Malisani, A. Spagnol, V. Smis-Michel*, Computational Optimization and Applications, 2026.  
+  [Article](https://doi.org/10.1007/s10589-026-00802-3)
 
 -  **Scenario Tree Reduction via Wasserstein Barycenters**, *D. Mimouni, P. Malisani, J. Zhu, W. de Oliveira*, Annals of Operations Research, 2026.  
   [Article](https://doi.org/10.1007/s10479-026-07062-8)
